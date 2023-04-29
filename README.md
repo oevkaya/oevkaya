@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ozanevkaya/)
 [![Mail Badge](https://img.shields.io/badge/ozanevkaya@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ozanevkaya@gmail.com)](mailto:ozanevkaya@gmail.com)
 
-- I’m currently working at the University of Edinburgh (School of Mathematics) as a University Teacher and at Boshporus AI as part-time data scientist
-- I’m looking to collaborate on copulas and its applications, statistical methods for insurance and environment
+- I’m currently working at the University of Edinburgh (School of Mathematics) as a University Teacher and Part Time Lecturer at İstinye-Bilgi University.
+- I’m looking to collaborate on copulas and its applications, statistical methods for insurance and environment and new teaching material creation. 
