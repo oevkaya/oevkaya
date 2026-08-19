@@ -23,5 +23,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/scholar.google-%230077B5.svg?&style=for-the-badge&logo=scholar.google&logoColor=white)](https://scholar.google.com.tr/citations?user=9ZCG7e8AAAAJ&hl=en)
 [![](https://img.shields.io/badge/orcid-%230077B5.svg?&style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5076-8144)
 
-- I’m currently working at the University of Edinburgh (School of Mathematics) as a Lecturer in Statistics and Part Time Lecturer at İstinye University.
-- I’m looking to collaborate on copulas and its applications, statistical methods for insurance and environment and new teaching material creation. 
+- Working at the University of Edinburgh (School of Mathematics) as a Lecturer in Statistics and Part Time Lecturer at İstinye University.
+- I’m looking to collaborate on copulas and its applications, statistical methods for insurance, finance and environment.
+
+- Having the roles of Academic Cohort Lead (ACL), EdinbR community and RSS Edinburgh local group member.
+- Artificial Intelligence in Statistics Education SIG Lead within the RoSE community
+- AI school lead in Academy Network of AI Leads in the Mathematical Sciences
+
+- ⚡ Fun fact: Missing stages since 2019. :)
