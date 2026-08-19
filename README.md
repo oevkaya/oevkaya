@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/researchgate-%230077B5.svg?&style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ozan-Evkaya/)
 [![](https://img.shields.io/badge/scholar.google-%230077B5.svg?&style=for-the-badge&logo=scholar.google&logoColor=white)](https://scholar.google.com.tr/citations?user=9ZCG7e8AAAAJ&hl=en)
 [![](https://img.shields.io/badge/orcid-%230077B5.svg?&style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5076-8144)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ozanevkaya/)
-[![Mail Badge](https://img.shields.io/badge/ozanevkaya@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ozanevkaya@gmail.com)](mailto:ozanevkaya@gmail.com)
 
 - I’m currently working at the University of Edinburgh (School of Mathematics) as a Lecturer in Statistics and Part Time Lecturer at İstinye University.
 - I’m looking to collaborate on copulas and its applications, statistical methods for insurance and environment and new teaching material creation. 
